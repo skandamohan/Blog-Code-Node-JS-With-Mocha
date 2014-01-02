@@ -1,0 +1,9 @@
+.text {
+    font: normal 15px Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+.large-text {
+    font:normal 20px Arial, Helvetica, sans-serif;
+    text-align: center;
+}
